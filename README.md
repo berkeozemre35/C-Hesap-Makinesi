@@ -1,2 +1,2 @@
 # C-Hesap-Makinesi
-C proglama dilinde 4 işlem yapan bir hesap makinesi.
+C proglama dilinde kullanıcıdan 2 sayı alıp 4 işlem yapabilen bir hesap makinesi.
